@@ -17,7 +17,7 @@ const RightAuth = () => {
 
   return (
     <AuthRightContainer>
-      <Card>
+      <Card data-aos="fade-up">
         <Header>
           <Head>
             <img src={Logo} alt="logo" />
@@ -50,19 +50,19 @@ const RightAuth = () => {
             >
               {/* SAAS Sign-In Methods */}
               <SignInSection>
-                <Button href="/dashboard">
+                <Button href="/dashboard" data-aos="fade-up" data-aos-delay="300">
                   <img src={GitHubIcon} alt="github" />
                   Sign in with Github
                 </Button>
-                <Button href="/dashboard">
+                <Button href="/dashboard" data-aos="fade-up" data-aos-delay="400">
                   <img src={BitbucketIcon} alt="bitbucket" />
                   Sign in with Bitbucket
                 </Button>
-                <Button href="/dashboard">
+                <Button href="/dashboard" data-aos="fade-up" data-aos-delay="500">
                   <img src={AzureDevOpsIcon} alt="azure-devops" />
                   Sign in with Azure DevOps
                 </Button>
-                <Button href="/dashboard">
+                <Button href="/dashboard" data-aos="fade-up" data-aos-delay="600">
                   <img src={GitLabIcon} alt="gitlab" />
                   Sign in with GitLab
                 </Button>
