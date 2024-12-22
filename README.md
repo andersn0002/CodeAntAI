@@ -64,7 +64,7 @@ Below are some visuals of the implemented design provided to me ->
 ![Login Page: Self Hosted](./public/samples/login2.png)
 
 #### Login Auth using SAAS - Mobile Responsive:  
-![Login Page: SAAS](./public/samples/login2-mobile.png)
+![Login Page: SAAS](./public/samples/login1-mobile.png)
 
 #### Login Auth using Self Hosted - Mobile Responsive:  
 ![Login Page: Self Hosted](./public/samples/login2-mobile.png)
