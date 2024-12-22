@@ -33,7 +33,7 @@ const DashboardMiddle = () => {
             <HeaderActions>
               <ActionButton>
                 <ArrowPathIcon className="size-4" />
-                <p>Refresh All</p>
+                <p onClick={() => window.location.reload()}>Refresh All</p>
               </ActionButton>
               <PrimaryActionButton>
                 <PlusIcon className="size-4" />
@@ -58,6 +58,9 @@ const DashboardMiddle = () => {
               <RepositoryItem
                 key={index}
                 lastItem={index === filteredData.length - 1}
+                data-aos="fade-up"
+                data-aos-offset="0"
+                data-aos-delay={index*100}
               >
                 <RepositoryHeader>
                   <span style={{fontSize: "1.2em"}}>{item.title}</span>
@@ -77,7 +80,7 @@ const DashboardMiddle = () => {
               </RepositoryItem>
             ))
           ) : (
-            <NoData>Looks like there is no repository to show.</NoData>
+            <NoData>It seems the Repository doesn't exist.</NoData>
           )}
         </RepositoryList>
       </RepositoryContainer>

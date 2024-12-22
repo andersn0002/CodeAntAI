@@ -95,7 +95,7 @@ const SideBar = () => {
               <PhoneIcon className="w-5" />
               <span>Support</span>
             </a>
-            <a href="#">
+            <a href="/">
               <ArrowRightStartOnRectangleIcon className="w-5" />
               <span>Logout</span>
             </a>
