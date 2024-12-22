@@ -186,7 +186,7 @@ const SidebarContent = styled.div`
         : "0px"
       : "100%"};
   transform: ${(props) =>
-    props.isSideBarVisible ? "translateY(13.5%)" : "translateY(0)"};
+    props.isSideBarVisible ? "translateY(5rem)" : "translateY(0)"};
 `;
 
 const SidebarInner = styled.div`
