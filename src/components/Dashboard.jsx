@@ -1,6 +1,6 @@
 import React, { useState, ChangeEvent } from "react";
 import styled from "styled-components";
-import Layout from "../helpers/Layout";
+import Layout from "../helpers/Layout.jsx";
 import { 
   ArrowPathIcon, 
   CircleStackIcon, 
