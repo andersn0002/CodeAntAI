@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import SideBar from './SideBar.jsx';
+import SideBar from '../helpers/Sidebar.jsx';
 
 const Layout = ({ children }) => {
   return (
