@@ -30,6 +30,7 @@ This project showcases my solution for the assignment provided by **CodeAnt AI**
 The assignment required the following:
 
 - Implement the provided design from the **Figma file** with accuracy.
+- Figma File -> https://www.figma.com/design/3j3bEI8nR1T1UwsfEBMbhi/Frontend-Developer-%3C%3E-CodeAnt?node-id=0-1&p=f&t=QC5oreOA8NiyCK4F-0
 - Create an intuitive and responsive user interface.
 - Ensure a clean and scalable codebase.
 - Deliver the completed implementation within the deadline.
