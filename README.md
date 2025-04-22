@@ -17,14 +17,6 @@
 
 ---
 
-## 🙏Introduction
-
-✨ Welcome to the **CodeAnt AI Frontend Developer Intern Hiring Assignment** repository! ✨
-
-This project showcases my solution for the assignment provided by **CodeAnt AI**, a Y Combinator-backed startup revolutionizing code quality and security. The objective was to build a responsive, efficient, and visually appealing frontend using **ReactJS**, **HTML**, and **CSS**, adhering to best practices for clean, scalable, and maintainable code.
-
----
-
 ## 📄Problem Statement
 
 The assignment required the following:
@@ -123,15 +115,7 @@ Below are some visuals of the implemented design provided to me ->
 ✅ **Animations:**
 
 - Subtle, professional animations enhance the interface without overwhelming the user.
-
----
-
-## 📤Deliverables
-
-1. **GitHub Repository**: [CodeAnt AI Frontend Developer Assignment](https://github.com/Hailex798/CodeAnt_AI-Frontend-Developer-Intern-Hiring-Assignment)
-2. **Live Demo**: [https://codeantai.netlify.app/](https://codeantai.netlify.app/)
-3. **Supporting Documentation**: Instructions for running the project locally are provided below.
-
+- 
 ---
 
 ## 📜Documentation
@@ -142,10 +126,10 @@ To get started, clone the repository and install the dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Hailex798/CodeAnt_AI-Frontend-Developer-Intern-Hiring-Assignment.git
+git clone https://github.com/andersn0002/CodeAntAI.git
 
 # Navigate to the project directory
-cd CodeAnt_AI-Frontend-Developer-Intern-Hiring-Assignment
+cd CodeAntAI.git
 
 # Install dependencies
 npm install
@@ -191,11 +175,6 @@ Navigate to `http://localhost:3000` to view the production build.
 
 If you have any questions or issues, please feel free to reach out:
 
-- **Email**: [kshitijsinghbisht777@gmail.com](mailto:kshitijsinghbisht777@gmail.com)
-- **LinkedIn**: [Kshitij Singh Bisht](https://linkedin.com/in/kshitijsinghbisht/)
-- **Portfolio**: [Kshitij](https://kshitijsinghbisht.netlify.app/)
-
----
-
-🎉 Thank you for reviewing this project! I look forward to your feedback and the opportunity to contribute to CodeAnt AI's innovative mission.
+- **Email**: [andersn0093@gmail.com](mailto:andersn0093@gmail.com)
+- **Telegram**: [Yuya Sano](https://t.me/andersn0093)
 
